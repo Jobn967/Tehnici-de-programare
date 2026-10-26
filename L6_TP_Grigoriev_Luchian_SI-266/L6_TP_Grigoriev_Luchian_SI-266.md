@@ -1,4 +1,5 @@
 https://github.com/Jobn967/exercitiu-git.git
+https://github.com/Jobn967/exercitiu-2.git
 La A1 am creat cont de github
 La A2 am configurat git-ul
 La A3 am creat depozitul exercitiu-git
